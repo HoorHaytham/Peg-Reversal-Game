@@ -1,4 +1,4 @@
-# Peg Reversal Game
+# 🧩Peg Reversal Game
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ It uses **Haskell, a functional programing language**.
 
 ---
 
-## Key Features
+## 🚀 Key Features
 
 - **Initial Board Setup**: The board starts with all pegs as black, except for one white peg. The position of the first white peg is provided by the user.
   
@@ -22,7 +22,7 @@ It uses **Haskell, a functional programing language**.
 
 ---
 
-## Type Definitions
+## 📝 Type Definitions
 
 The following type definitions are used to represent the game state:
 
